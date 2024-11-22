@@ -65,7 +65,7 @@ sudo docker compose -f docker-compose.prod.yml up -d
 3. Access the application - open your web browser and visit:
 
 - https://your_server_ip/
-- 
+  
 ### The other parts of ecosystem:
 
 ### [Hat](https://github.com/5D-HUB/HAT)
