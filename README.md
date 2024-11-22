@@ -4,7 +4,9 @@
 
 **Tracker** is a part of TON-based ecosystem for investors, startups and business quiz and education. Tracker is a platform for investors and startup founders to navigate their project's journey, which includes 12 sprints, pitches to investors, and team building.
 
+<div align="center">
 <img src="https://s.iimg.su/s/22/2GdYHGGI9YQvoY1eEuXPAKsmB3BQZnM0JkssI7VK.png" alt="alt text" width="500"/>
+</div>
 
 ## ✨ Opportunities
 For Founder:
