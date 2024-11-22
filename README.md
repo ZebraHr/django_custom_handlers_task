@@ -65,6 +65,7 @@ sudo docker compose -f docker-compose.prod.yml up -d
 
 3. Access the application - open your web browser and visit:
 
+- https://your_server_ip/
 - https://your_server_ip/api/tracker/swagger-ui/swagger-ui/index.html
   
 ### The other parts of ecosystem:
