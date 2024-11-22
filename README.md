@@ -7,13 +7,14 @@
 
 ## ✨ Opportunities
 For Founder:
-- automatic formation of sprints
-- selection of the execution team control of task
-- completion prioritization of tasks
+- 🏃‍♂️  automatic formation of sprints
+- 👥 selection of the execution team
+- ✅ control of task completion 
+- 📊 prioritization of tasks
 
 For Co-builder:
-- an opportunity to earn money
-- gain experience in solving practical problems
+- 💰 an opportunity to earn money
+- 🎓 gain experience in solving practical problems
 
 ## 🛠️ Technologies
 ### Backend
