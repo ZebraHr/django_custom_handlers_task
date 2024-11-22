@@ -50,7 +50,6 @@ docker compose up
 3. Access the application - open your web browser and visit:
 
 - http://127.0.0.1:8094
-- 
 
 ## 🚀 Server launch
 1. Clone the repository to your server:
