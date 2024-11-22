@@ -49,7 +49,7 @@ cd TRACKER
 docker compose up
 ```
 3. Access the application - open your web browser and visit:
-
+- http://127.0.0.1:8094/
 - http://127.0.0.1:8094/api/tracker/swagger-ui/swagger-ui/index.html
 
 ## 🚀 Server launch
